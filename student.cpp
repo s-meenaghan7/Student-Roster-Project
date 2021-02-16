@@ -9,8 +9,7 @@ using std::cout;
 using std::setw;
 using std::cerr;
 
-//implement the constructor, using ALL of the input parameters provided in the table
-//implementing empty constructor first, setting all to default values, per video 2
+//implementing empty constructor first
 Student::Student()
 {
 	this->studentID = "";
