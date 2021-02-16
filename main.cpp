@@ -5,8 +5,8 @@
 #include <string>
 
 int main() {
-    // Print out to the screen, via your application, the course title, the programming language used, your WGU student ID, and your name.
-    string title{ "Scripting and Programming - Applications - C867 | Written in C++ | Student ID: #001081283 | Sean Meenaghan" };
+    // Print out to the screen, via your application, the course title, the programming language used, and your name.
+    string title{ "Scripting and Programming - Applications - C867 | Written in C++ | Sean Meenaghan" };
     std::cout << title << std::endl;
 
     //create an instance of the Roster class called classRoster
