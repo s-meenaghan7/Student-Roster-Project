@@ -1,7 +1,6 @@
 # Student-Roster-Project
-University project written in C++. 
+Console app written in C++. 
 
-This project served as the final project for a scipting & programming class.
 This project demonstates competency and understanding of the C++ programming language, as well as general programming concepts such as object-oriented programming, data structures, the use of functions, pointers, and data types including enumerated types.
 
 
